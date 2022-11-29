@@ -1,0 +1,13 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+#profile {
+  width: 150px;
+}
+
+.icon {
+  width: 40px;
+  cursor: pointer;
+}
